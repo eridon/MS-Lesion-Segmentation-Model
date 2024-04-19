@@ -1,0 +1,201 @@
+patient,time,device_manufacturer,device_model,device_field_strength
+078,time01,GE MEDICAL SYSTEMS,Optima MR450w,1.5
+078,time02,GE MEDICAL SYSTEMS,Optima MR450w,1.5
+069,time01,Philips Medical Systems,Achieva,1.5
+069,time02,Philips Medical Systems,Achieva,1.5
+020,time01,Philips,Achieva,1.5
+020,time02,Philips,Achieva,1.5
+028,time01,SIEMENS,Avanto_fit,1.5
+028,time02,SIEMENS,Avanto_fit,1.5
+089,time01,Philips,Achieva,1.5
+089,time02,Philips,Achieva,1.5
+038,time01,Philips,Achieva,1.5
+038,time02,Philips,Achieva,1.5
+084,time01,Philips Medical Systems,Achieva,1.5
+084,time02,Philips Healthcare,Ingenia,1.5
+091,time01,SIEMENS,Avanto_fit,1.5
+091,time02,SIEMENS,Avanto_fit,1.5
+059,time01,SIEMENS,Aera,1.5
+059,time02,SIEMENS,Aera,1.5
+045,time01,Philips,Achieva,1.5
+045,time02,Philips,Achieva,1.5
+025,time01,SIEMENS,Aera,1.5
+025,time02,SIEMENS,Aera,1.5
+062,time01,SIEMENS,Aera,1.5
+062,time02,SIEMENS,Aera,1.5
+063,time01,SIEMENS,Aera,1.5
+063,time02,SIEMENS,Aera,1.5
+001,time01,SIEMENS,Aera,1.5
+001,time02,SIEMENS,Aera,1.5
+007,time01,SIEMENS,Aera,1.5
+007,time02,SIEMENS,Aera,1.5
+070,time01,Philips,Ingenia,3.0
+070,time02,Philips,Ingenia,3.0
+004,time01,Philips,Ingenia,3.0
+004,time02,Philips,Ingenia,3.0
+098,time01,Philips,Achieva,3.0
+098,time02,Philips,Ingenia,3.0
+030,time01,SIEMENS,Aera,1.5
+030,time02,SIEMENS,Aera,1.5
+023,time01,Philips,Ingenia,1.5
+023,time02,Philips,Ingenia,1.5
+053,time01,Philips,Ingenia,1.5
+053,time02,Philips,Ingenia,1.5
+054,time01,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+054,time02,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+031,time01,Philips Medical Systems,Achieva,1.5
+031,time02,Philips Medical Systems,Achieva,1.5
+008,time01,Philips,Achieva,3.0
+008,time02,Philips,Achieva dStream,3.0
+002,time01,Philips,Achieva,3.0
+002,time02,Philips,Achieva dStream,3.0
+072,time01,SIEMENS,Skyra,3.0
+072,time02,SIEMENS,Skyra,3.0
+093,time01,SIEMENS,Skyra,3.0
+093,time02,SIEMENS,Skyra,3.0
+035,time01,SIEMENS,Skyra,3.0
+035,time02,SIEMENS,Skyra,3.0
+026,time01,SIEMENS,Skyra,3.0
+026,time02,SIEMENS,Skyra,3.0
+082,time01,SIEMENS,Skyra,3.0
+082,time02,SIEMENS,Skyra,3.0
+068,time01,SIEMENS,Aera,1.5
+068,time02,SIEMENS,Aera,1.5
+041,time01,Philips,Ingenia,3.0
+041,time02,Philips,Ingenia,3.0
+088,time01,SIEMENS,Aera,1.5
+088,time02,SIEMENS,Aera,1.5
+033,time01,SIEMENS,Aera,1.5
+033,time02,SIEMENS,Aera,1.5
+042,time01,Philips,Ingenia,3.0
+042,time02,Philips,Ingenia,3.0
+064,time01,Philips,Ingenia,3.0
+064,time02,Philips,Ingenia,3.0
+049,time01,Philips,Ingenia,3.0
+049,time02,Philips,Ingenia,3.0
+100,time01,Philips,Ingenia,3.0
+100,time02,Philips,Ingenia,3.0
+012,time01,Philips,Ingenia,3.0
+012,time02,Philips,Ingenia,3.0
+090,time01,Philips,Ingenia,3.0
+090,time02,Philips,Ingenia,3.0
+097,time01,Philips,Ingenia,3.0
+097,time02,Philips,Ingenia,3.0
+051,time01,Philips,Ingenia,3.0
+051,time02,Philips,Ingenia,3.0
+027,time01,Philips,Ingenia,3.0
+027,time02,Philips,Ingenia,3.0
+081,time01,SIEMENS,Verio,3.0
+081,time02,SIEMENS,Verio,3.0
+044,time01,Philips Medical Systems,Ingenia,3.0
+044,time02,Philips Medical Systems,Ingenia,3.0
+067,time01,SIEMENS,Verio,3.0
+067,time02,SIEMENS,prisma,3.0
+075,time01,Philips,Ingenia,3.0
+075,time02,Philips,Ingenia,3.0
+036,time01,Philips,Ingenia,3.0
+036,time02,Philips,Ingenia,3.0
+061,time01,Philips Medical Systems,Ingenia,3.0
+061,time02,Philips Medical Systems,Ingenia,3.0
+024,time01,Philips,Ingenia,3.0
+024,time02,Philips,Ingenia,3.0
+011,time01,Philips,Ingenia,3.0
+011,time02,Philips,Ingenia,3.0
+079,time01,Philips,Ingenia,3.0
+079,time02,Philips,Ingenia,3.0
+074,time01,Philips,Ingenia,3.0
+074,time02,Philips,Ingenia,3.0
+043,time01,Philips,Ingenia,3.0
+043,time02,Philips,Ingenia,3.0
+046,time01,Philips,Ingenia,3.0
+046,time02,Philips,Ingenia,3.0
+099,time01,Philips,Ingenia,3.0
+099,time02,Philips,Ingenia,3.0
+086,time01,Philips,Ingenia,3.0
+086,time02,Philips,Ingenia,3.0
+050,time01,Philips,Ingenia,3.0
+050,time02,Philips,Ingenia,3.0
+057,time01,Philips,Ingenia,3.0
+057,time02,Philips,Ingenia,3.0
+016,time01,Philips,Ingenia,3.0
+016,time02,Philips,Ingenia,3.0
+005,time01,Philips,Ingenia,3.0
+005,time02,Philips,Ingenia,3.0
+034,time01,Philips,Ingenia,3.0
+034,time02,Philips,Ingenia,3.0
+052,time01,Philips,Ingenia,3.0
+052,time02,Philips,Ingenia,3.0
+021,time01,Philips,Ingenia,3.0
+021,time02,Philips,Ingenia,3.0
+029,time01,SIEMENS,Verio,3.0
+029,time02,SIEMENS,Verio,3.0
+003,time01,Philips,Ingenia,3.0
+003,time02,Philips,Ingenia,3.0
+065,time01,Philips,Ingenia,3.0
+065,time02,Philips,Ingenia,3.0
+037,time01,Philips,Ingenia,3.0
+037,time02,Philips,Ingenia,3.0
+032,time01,Philips Medical Systems,Ingenia,3.0
+032,time02,Philips Medical Systems,Ingenia,3.0
+080,time01,Philips,Ingenia,3.0
+080,time02,Philips,Ingenia,3.0
+077,time01,Philips,Ingenia,3.0
+077,time02,Philips,Ingenia,3.0
+048,time01,Philips,Ingenia,3.0
+048,time02,Philips,Ingenia,3.0
+015,time01,Philips,Ingenia,3.0
+015,time02,Philips,Ingenia,3.0
+013,time01,Philips,Ingenia,3.0
+013,time02,Philips,Ingenia,3.0
+017,time01,Philips Medical Systems,Achieva,3.0
+017,time02,Philips Medical Systems,Achieva,3.0
+010,time01,Philips,Achieva dStream,3.0
+010,time02,Philips,Achieva dStream,3.0
+018,time01,Philips,Achieva,3.0
+018,time02,Philips,Achieva,3.0
+076,time01,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+076,time02,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+039,time01,Philips,Achieva,3.0
+039,time02,Philips,Achieva dStream,3.0
+058,time01,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+058,time02,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+066,time01,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+066,time02,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+040,time01,SIEMENS,Aera,1.5
+040,time02,SIEMENS,Aera,1.5
+056,time01,Philips,Achieva,3.0
+056,time02,Philips,Achieva,3.0
+022,time01,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+022,time02,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+085,time01,Philips,Achieva,3.0
+085,time02,Philips,Achieva dStream,3.0
+009,time01,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+009,time02,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+087,time01,Philips,Achieva,3.0
+087,time02,Philips,Achieva dStream,3.0
+060,time01,Philips,Achieva,3.0
+060,time02,Philips,Achieva dStream,3.0
+094,time01,Philips,Achieva dStream,3.0
+094,time02,Philips,Achieva dStream,3.0
+071,time01,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+071,time02,GE MEDICAL SYSTEMS,SIGNA HDx 00000000h4858977,3.0
+055,time01,Philips,Achieva,3.0
+055,time02,Philips,Achieva,3.0
+092,time01,Philips,Achieva dStream,3.0
+092,time02,Philips,Achieva dStream,3.0
+014,time01,SIEMENS,prisma,3.0
+014,time02,SIEMENS,prisma,3.0
+095,time01,SIEMENS,Verio,3.0
+095,time02,SIEMENS,Verio,3.0
+083,time01,SIEMENS,Verio,3.0
+083,time02,SIEMENS,Verio,3.0
+019,time01,SIEMENS,Avanto,1.5
+019,time02,SIEMENS,Avanto,1.5
+047,time01,SIEMENS,Verio,3.0
+047,time02,SIEMENS,Verio,3.0
+073,time01,GE MEDICAL SYSTEMS,Signa HDxt,1.5
+073,time02,GE MEDICAL SYSTEMS,Signa HDxt,1.5
+096,time01,SIEMENS,prisma,3.0
+096,time02,SIEMENS,prisma,3.0
+006,time01,SIEMENS,Avanto,1.5
+006,time02,SIEMENS,Avanto,1.5
